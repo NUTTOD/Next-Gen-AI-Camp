@@ -1,4 +1,4 @@
-b = int(input("Type Base : "))
-h = int(input("Type Height : "))
+b = float(input("Type Base : "))
+h = float(input("Type Height : "))
 Area = (1/2)*b*h
 print(f"|Triangle Area is : {Area:-^-15} |")
